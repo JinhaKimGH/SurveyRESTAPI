@@ -1,6 +1,6 @@
 # SurveyRESTAPI
 
-A Survey API that can create, add, update, and delete surveys with a RESTful implementation. Unit tests and spring-security are also configured.
+A Survey API that can create, add, update, and delete surveys with a RESTful implementation. Unit tests (IT and Mockito), hpa, and spring-security are also configured.
 
 This project requires Java 17 and an installation of Maven to run.
 
